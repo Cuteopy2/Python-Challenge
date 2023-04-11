@@ -15,7 +15,7 @@ The script also exports a text file with the financial analysis results.
 The script will read the input CSV file, perform the analysis, print the results to the terminal, and write the results to the output text file.
 
 
-2. Elections Results
+2. PyPoll Analysis
 
 This script analyzes a set of poll data to calculate and print the following election results:
 
